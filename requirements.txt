@@ -1,0 +1,6 @@
+Jupyter Notebook - Where the coding took place.
+Python 3 - The coding language used.
+Pandas - Used to clean and combine datasets into one.
+SKLearn - Imported into notebooks to run regression and analytics.
+Github - Hosts all files for this analysis.
+Git Bash - Navigating file system and communicating with Github repository.
