@@ -26,12 +26,12 @@ The first model started off looking to predict salaries with the following stati
     - Career FG3 Percentage\
     - Career FT Percentage \
     - Career Games\
-    - Career Points\
+    - Career Points
 
 Here are the metrics for the first model:\
     R^2: 0.216 \
     MAE: 2,514,196.182\
-    RMSE: 3,636,710.986\
+    RMSE: 3,636,710.986
     
 The R^2 tells us that the model explains the variance about 21.6% of the time. Essentially this model isn't very accurate. 
 The Mean Absolute Error shows us that when our model makes a prediction, it on average is $2,514,196.18 off in a particular prediction. With the mean for salaries being $3,244,537, our predictions of off quite a significant amount. 
@@ -41,7 +41,7 @@ In finding out the inaccuracy of the first model, I realized that the US Dollar 
 Here are the metrics of the second model:\
     R^2: 0.405\
     MAE: 0.044\
-    RMSE: 0.063\
+    RMSE: 0.063
     
 The R^2 increased significantly, now sitting at 40.5%. The MAE is only 4.4% and with the mean for % of salary cap being 7.9%, meaning we're off by 4.4% on the average prediction. 
 
