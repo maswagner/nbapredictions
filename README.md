@@ -1,6 +1,6 @@
 # NBA Salary Predictions using Player Statistics
 
-![alt text](basketballgame.jpg)
+![alt text](/.images/basketballgame.jpg)
 
 For a while now, I've loved the game of basketball. Something about the ball swishing through the hoop gets me every time. So what better way to look into predictive analytics with sports! Professional Basketball players are expensive. With the NBA League minimum salary being 1.1 Million, owners need to understand how much a player is worth. On the flip side of things, a player should be fairly evaluated for their productions on the court. Building a model can help solve this issue by taking player's career statistics and salaries through the years. 
 
@@ -14,7 +14,7 @@ Below are the two sources I pulled data from:\
 I used Basketballreferance.com to find the Player salaries and salary cap to calculate the target variable. Then used the player statistics from Kaggle to formulate my model.\
 
 Here is an example of the dataset used to create the model:
-![alt text](NBAstats.jpg)
+![alt text](/.images/NBAstats.jpg)
 
 ### Model and Evaluation
 For making predictions, I chose to start with a linear regression model using SKLearn's LinearRegression. \
@@ -50,11 +50,11 @@ Simply taking into account the inflation of the dollar and standardizing the tar
 
 ### Repository Navigation
 List of the files in this Github:\
-    Clean_Data_Sheet.ipynb - A Jupyter Notebook where I cleaned and combined the three datasets into one\
-    NBAstats.jpg - Photo of the dataset used in this README.md file\
+[Clean Data Sheet]('./Clean_Data_Sheet.ipynb') - A Jupyter Notebook where I cleaned and combined the three datasets into one\
+[NBAStats.jpg]('.images/NBAstats.jpg') - Photo of the dataset used in this README.md file\
     README.md - File that explains this Github and how to navigate it\
-    Salary Regression.ipynb - A Jupyter Notebook where I ran a linear regression analysis on the combined dataset\
-    Wagner NBA Predictions - Final Powerpoint presentation\
-    Wagner Project Proposal.pdf - A proposal for the idea of this project\
-    basketballgame.jpg - A photo used for the README.md file\
-    requirements.txt - List of used software
+[Salary Regression]('./Salary Regression.ipynb') - A Jupyter Notebook where I ran a linear regression analysis on the combined dataset\
+[Final Presentation]('./Wagner NBA Predictions') - Final Powerpoint presentation\
+[Project Proposal]('./Wagner Project Proposal.pdf') - A proposal for the idea of this project\
+[basketballgame.jpg]('.images/basketballgame.jpg') - A photo used for the README.md file\
+[Required Software]('./requirements.txt') - List of used software
