@@ -9,15 +9,15 @@ As mentioned above, NBA players are pricey. Especially with the mean salary sitt
  
 Below are the two sources I pulled data from:\
     - Basketballreferance.com - Player Salaries and Salary Cap both from 1984-2018\
-    - Kaggle.com - Player Statistics from 1984-2018\
+    - Kaggle.com - Player Statistics from 1984-2018
 
-I used Basketballreferance.com to find the Player salaries and salary cap to calculate the target variable. Then used the player statistics from Kaggle to formulate my model.\
+I used Basketballreferance.com to find the Player salaries and salary cap to calculate the target variable. Then used the player statistics from Kaggle to formulate my model.
 
 Here is an example of the dataset used to create the model:
 ![alt text](/.images/NBAstats.jpg)
 
 ### Model and Evaluation
-For making predictions, I chose to start with a linear regression model using SKLearn's LinearRegression. \
+For making predictions, I chose to start with a linear regression model using SKLearn's LinearRegression. 
 
 The first model started off looking to predict salaries with the following statistics:\
     - Points Per Game\
@@ -53,8 +53,8 @@ List of the files in this Github:\
 [Clean Data Sheet]('./Clean_Data_Sheet.ipynb') - A Jupyter Notebook where I cleaned and combined the three datasets into one\
 [NBAStats.jpg]('.images/NBAstats.jpg') - Photo of the dataset used in this README.md file\
     README.md - File that explains this Github and how to navigate it\
-[Salary Regression]('./Salary Regression.ipynb') - A Jupyter Notebook where I ran a linear regression analysis on the combined dataset\
-[Final Presentation]('./Wagner NBA Predictions') - Final Powerpoint presentation\
-[Project Proposal]('./Wagner Project Proposal.pdf') - A proposal for the idea of this project\
+[Salary Regression]('./SalaryRegression.ipynb') - A Jupyter Notebook where I ran a linear regression analysis on the combined dataset\
+[Final Presentation]('./WagnerNBAPredictions') - Final Powerpoint presentation\
+[Project Proposal]('./WagnerProjectProposal.pdf') - A proposal for the idea of this project\
 [basketballgame.jpg]('.images/basketballgame.jpg') - A photo used for the README.md file\
 [Required Software]('./requirements.txt') - List of used software
