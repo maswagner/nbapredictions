@@ -50,11 +50,11 @@ Simply taking into account the inflation of the dollar and standardizing the tar
 
 ### Repository Navigation
 List of the files in this Github:\
-[Clean Data Sheet]('Clean_Data_Sheet.ipynb') - A Jupyter Notebook where I cleaned and combined the three datasets into one\
-[NBAStats.jpg]('.images/NBAstats.jpg') - Photo of the dataset used in this README.md file\
+[Clean Data Sheet](Clean_Data_Sheet.ipynb) - A Jupyter Notebook where I cleaned and combined the three datasets into one\
+[NBAStats.jpg](.images/NBAstats.jpg) - Photo of the dataset used in this README.md file\
     README.md - File that explains this Github and how to navigate it\
-[Salary Regression]('SalaryRegression.ipynb') - A Jupyter Notebook where I ran a linear regression analysis on the combined dataset\
-[Final Presentation]('WagnerNBAPredictions') - Final Powerpoint presentation\
-[Project Proposal]('WagnerProjectProposal.pdf') - A proposal for the idea of this project\
-[basketballgame.jpg]('.images/basketballgame.jpg') - A photo used for the README.md file\
-[Required Software]('requirements.txt') - List of used software
+[Salary Regression](SalaryRegression.ipynb) - A Jupyter Notebook where I ran a linear regression analysis on the combined dataset\
+[Final Presentation](WagnerNBAPredictions) - Final Powerpoint presentation\
+[Project Proposal](WagnerProjectProposal.pdf) - A proposal for the idea of this project\
+[basketballgame.jpg](.images/basketballgame.jpg) - A photo used for the README.md file\
+[Required Software](requirements.txt) - List of used software
